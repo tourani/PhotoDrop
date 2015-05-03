@@ -1,5 +1,5 @@
 //
-// Created by Josh Freed on 5/1/15.
+// Created by Sanjay Tourani on 5/1/15.
 //
 
 #import <ImageIO/ImageIO.h>
